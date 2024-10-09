@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AccessibilityServiceExp</string>
+    <string name="accessibility_service_description">Accessibility Service for detecting short videos</string>
+</resources>
